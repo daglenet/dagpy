@@ -21,18 +21,19 @@ sh setup.sh
 # CẦN CHÚ Ý
 
 Để sử dụng được package này, bắt buộc phải sử dụng trên termux.
-Package chỉ hỗ trợ hoạt động cho tệp python đã định dạng sẵn, ngoài ra các định dạng ngoài sẽ bi từ chối.
-Tôi không đảm bảo mã nguồn của bạn sẽ được bảo vệ tuyệt đối, chỉ mà một thủ thuật nhỏ nhằm che mắt.
+</br>
+Package chỉ hỗ trợ hoạt động cho tệp python đã định dạng sẵn, ngoài ra các định dạng ngoài sẽ bi từ chối. </br>
+Tôi không đảm bảo mã nguồn của bạn sẽ được bảo vệ tuyệt đối, chỉ mà một thủ thuật nhỏ nhằm che mắt. </br>
 
 # Tác Giả
 
 [**Programmer: Đăng EAGLE**](https://t.me/dangeagle)
 
 # Liên Hệ Với Đăng
-[Facebook: ](https://www.facebook.com/dangeagle)
-[Telegram group: ](https://t.me/termuxvietnam)
-[Email: ](mailto:dagle.net@gmail.com)
-SĐT: **0393417695**
+Facebook: [Bùi Văn Đăng](https://www.facebook.com/dangeagle) </br>
+Group Telegram: [Termux Việt Nam](https://t.me/termuxvietnam) </br>
+Email: [dagle.net@gmail.com](mailto:dagle.net@gmail.com) </br>
+SĐT: [**0393417695**](tel:0393417695) </br>
 
 # Liên Hệ Mã Hoá
 
