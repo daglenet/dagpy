@@ -2,7 +2,7 @@
 
 Mã hoá python nền tảng TERMUX ANDROID với Thương hiệu VIỆT NAM.
 
-**Hướng Dẫn Cài Đặt**
+[#f03c15]**Hướng Dẫn Cài Đặt**
  
  
  
