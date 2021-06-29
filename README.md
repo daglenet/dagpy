@@ -18,3 +18,10 @@ Cài Đặt PACKAGE:
 ```bash
 sh setup.sh
 ```
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
