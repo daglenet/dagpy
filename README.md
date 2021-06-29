@@ -26,4 +26,14 @@ Tôi không đảm bảo mã nguồn của bạn sẽ được bảo vệ tuyệ
 
 # Tác Giả
 
-[**Đăng EAGLE**](https://dagle.net)
+[**Programmer: Đăng EAGLE**](https://t.me/dangeagle)
+
+# Liên Hệ Với Đăng
+[Facebook: ](https://www.facebook.com/dangeagle)
+[Telegram group: ](https://t.me/termuxvietnam)
+[Email: ](mailto:dagle.net@gmail.com)
+SĐT: **0393417695**
+
+# Liên Hệ Mã Hoá
+
+**Để Mã Hoá Vui lòng inbox cho tôi qua telegram: [Đăng EAGLE](https://t.me/dangeagle) để tránh lạnh dụng tài nguyên.**
