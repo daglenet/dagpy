@@ -1,24 +1,7 @@
-# PYTHON TERMUX ENCODE - DAGPY
-version: 1.0
-# tôi là Đăng, trong giới coder gọi tôi là Đăng EAGLE, và dự án này của tôi sẽ cung cấp cho bạn công cụ mã hoá python tuyệt vời.
+# PYTHON BEST ENCODE - DAGPY | Đăng EAGLE
 
+Dự án của tôi sẽ giúp bạn bảo vệ tốt hơn mã nguồn của mình khỏi những con cầm thú decode trên nền tảng termux Android.
 
+Dự án được nghiên cứu bởi: Đăng EAGLE
 
-
-
-
-
-# Cách cài đặt (chỉ hỗ trợ termux):
-
-command: git clone https://github.com/daglenet/dagpy
-command: sh setup.sh
-
-
-
-
-
-
-
-# Cách sử dụng
-
-command: dagpy <script name compile>
+ 
