@@ -20,6 +20,11 @@ Cài Đặt PACKAGE:
 ```bash
 sh setup.sh
 ```
+</br></br>
+**Sau khi cài đặt hãy thử với file test.py xem có hoạt động hay không** </br>
+```bash
+dagpy test.py
+```
 # CẦN CHÚ Ý
 
 Để sử dụng được package này, bắt buộc phải sử dụng trên termux. </br></br>
