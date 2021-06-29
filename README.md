@@ -16,6 +16,11 @@ Tải Package Dagpy:
 git clone https://github.com/daglenet/dagpy
 ```
 </br></br>
+Tải Vào Thư Mục Dagpy:
+```bash
+cd dagpy
+```
+</br></br>
 Cài Đặt PACKAGE:
 ```bash
 sh setup.sh
