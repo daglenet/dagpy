@@ -26,4 +26,4 @@ Tôi không đảm bảo mã nguồn của bạn sẽ được bảo vệ tuyệ
 
 # Tác Giả
 
-[**Đăng EAGLE**] (https://dagle.net)
+[**Đăng EAGLE**](https://dagle.net)
