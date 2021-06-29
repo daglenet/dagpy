@@ -24,6 +24,6 @@ sh setup.sh
 Package chỉ hỗ trợ hoạt động cho tệp python đã định dạng sẵn, ngoài ra các định dạng ngoài sẽ bi từ chối.
 Tôi không đảm bảo mã nguồn của bạn sẽ được bảo vệ tuyệt đối, chỉ mà một thủ thuật nhỏ nhằm che mắt.
 
-#Tác Giả
+# Tác Giả
 
-[**Đăng EAGLE**]: https://dagle.net
+[**Đăng EAGLE**] (https://dagle.net)
